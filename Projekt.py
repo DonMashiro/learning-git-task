@@ -5,3 +5,4 @@ for number in numbers:
     cube.append(number**3)
 print(cube)
 new_numbers = list(range(234, 238))
+new_numbers.append(238)
