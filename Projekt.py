@@ -6,3 +6,4 @@ for number in numbers:
 print(cube)
 new_numbers = list(range(234, 238))
 new_numbers.append(238)
+print(new_numbers)
